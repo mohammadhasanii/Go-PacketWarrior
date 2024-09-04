@@ -1,5 +1,5 @@
 
-# Gopher-PacketWarrior
+# Go-PacketWarrior
 
 This Go program allows blocking incoming packets on a router by adding iptables rules. It can be useful in situations where backend traffic is too high and needs to be limited at the network level.
 
